@@ -27,7 +27,7 @@ public class DrinkActivity extends AppCompatActivity {
         TextView name = (TextView) findViewById(R.id.name);
         TextView description = (TextView) findViewById(R.id.description);
         ImageView photo = (ImageView) findViewById(R.id.photo);
-        CheckBox favorite = (CheckBox) findViewById(R, R.id.favorite);
+        CheckBox favorite = (CheckBox) findViewById(R.id.favorite);
 
         try{
             SQLiteOpenHelper startbuzzDatabaseHelper = new StarbuzzDatabaseHelper(this);
