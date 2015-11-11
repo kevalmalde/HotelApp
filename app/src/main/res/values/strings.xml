@@ -9,4 +9,5 @@
         <item>Stores</item>
     </string-array>
     <string name="title_activity_drink">DrinkActivity</string>
+    <string name="favorite">Favorite</string>
 </resources>
